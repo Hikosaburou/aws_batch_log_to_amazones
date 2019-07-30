@@ -1,0 +1,7 @@
+ES_ENDPOINT:
+  debug: "search-debug-endpoint-t2hdpte4ecrqi24db2lwyiaxcy.ap-northeast-1.es.amazonaws.com"
+
+ALLOWED_PATTERN:
+  - "test-log"
+
+REGION: ap-northeast-1
